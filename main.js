@@ -1,5 +1,5 @@
 // Type Writer
-const phrases = ["Web Devloper", "Content Creater", "Designer"];
+const phrases = ["Web Developer", "Content Creater", "Designer"];
 let currentPhraseIndex = 0;
 let currentCharIndex = 0;
 const typingSpeed = 150;
